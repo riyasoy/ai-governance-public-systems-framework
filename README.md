@@ -1,2 +1,6 @@
-# ai-governance-public-systems-framework
-Research project exploring responsible AI adoption in public systems through governance frameworks, risk assessment, and policy analysis.
+# A Governance Framework for Responsible AI Adoption in Public Systems
+
+Independent research project examining the challenges, risks, and governance requirements for responsible AI deployment in public systems.
+
+Author: Riya
+Status: In Progress
