@@ -1,4 +1,6 @@
-## What is AI?
-## Why is AI entering public systems?
-## Why governance is becoming important?
-## What does this paper attempt to do?
+# Introduction 
+
+Artificial Intelligence (AI) has rapidly emerged as a transformative technology across various sectors, including healthcare, transportation, education, public administration, and smart city development. Governments and public institutions worldwide are increasingly adopting AI-driven systems to improve operational efficiency, enhance decision-making processes, and deliver public services more effectively. As these technologies become integrated into critical public functions, their influence on citizens and society continues to expand.
+Despite its potential benefits, the adoption of AI in public systems presents several significant challenges. AI systems may produce biased outcomes, raise concerns regarding privacy and data protection, and operate in ways that lack transparency and explainability. Furthermore, questions regarding accountability and cybersecurity remain critical, particularly when AI-assisted decisions directly affect citizens' rights, opportunities, and access to public services. These concerns highlight the need for effective governance mechanisms capable of ensuring that AI systems are developed and deployed responsibly.
+AI governance refers to the policies, principles, and institutional frameworks designed to guide the ethical, transparent, and accountable use of AI technologies. Effective governance is essential to ensure that AI systems operate in accordance with public interests while minimizing potential risks. As governments continue to expand the use of AI in public services, governance frameworks play an increasingly important role in building public trust and ensuring responsible innovation.
+This paper examines the challenges and risks associated with AI adoption in public systems, reviews existing governance approaches, and proposes a governance framework for responsible AI implementation. The study aims to contribute to ongoing discussions regarding the development of transparent, accountable, and human-centered AI systems for the public sector.
