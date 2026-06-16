@@ -5,19 +5,41 @@ Despite its potential benefits, the adoption of AI in public systems presents se
 AI governance refers to the policies, principles, and institutional frameworks designed to guide the ethical, transparent, and accountable use of AI technologies. Effective governance is essential to ensure that AI systems operate in accordance with public interests while minimizing potential risks. As governments continue to expand the use of AI in public services, governance frameworks play an increasingly important role in building public trust and ensuring responsible innovation.
 This paper examines the challenges and risks associated with AI adoption in public systems, reviews existing governance approaches, and proposes a governance framework for responsible AI implementation. The study aims to contribute to ongoing discussions regarding the development of transparent, accountable, and human-centered AI systems for the public sector.
 
-# Why AI Governance Matters in Public Systems
+## 2. Why AI Governance Matters in Public Systems
 
-# Key Risks of AI Adoption
+Artificial intelligence is increasingly being adopted within public systems to improve efficiency, reduce operational costs, and enhance decision-making processes. Governments and public institutions are utilizing AI technologies in areas such as healthcare, transportation, education, public administration, law enforcement, and smart city development. These systems can analyze large volumes of data, automate repetitive tasks, and provide faster services to citizens.
 
- ## Bias and Discrimination
+Despite these advantages, AI systems can significantly influence decisions that directly affect individuals and communities. Unlike traditional software systems, AI models often learn from historical data and make predictions or recommendations that may not always be transparent or easily explainable. As a result, concerns regarding fairness, privacy, accountability, and public trust have become increasingly important.
 
- ## Privacy and Data Protection
+AI governance provides the policies, standards, and oversight mechanisms necessary to ensure that AI systems operate responsibly and ethically. Effective governance helps organizations manage risks, protect individual rights, maintain transparency, and ensure compliance with legal and regulatory requirements. In public systems, governance is particularly important because decisions made by AI can impact access to essential services, public resources, and opportunities.
 
- ## Transparency and Explainability
+Therefore, AI governance serves as a critical foundation for ensuring that technological innovation remains aligned with public interests, democratic values, and societal well-being.
 
- ## Accountability
+---
 
- ## Cybersecurity Risks
+## 3. Key Risks of AI Adoption
+
+While artificial intelligence offers substantial benefits, its adoption also introduces several risks that must be carefully managed. These risks become especially significant when AI systems are deployed within public institutions where decisions can directly affect citizens.
+
+### 3.1 Bias and Discrimination
+
+AI systems learn patterns from historical data. If the training data contains social, cultural, or institutional biases, the resulting AI system may reproduce or even amplify these biases. This can lead to discriminatory outcomes in areas such as recruitment, education, lending, healthcare, and law enforcement. Biased AI systems may unfairly disadvantage specific groups based on gender, ethnicity, age, or socioeconomic background, creating concerns regarding fairness and equal treatment.
+
+### 3.2 Privacy and Data Protection
+
+AI systems often require access to large amounts of personal and sensitive data to function effectively. Public institutions frequently manage information related to healthcare, financial records, education, and citizen identities. Inadequate data protection measures may result in privacy violations, unauthorized access, or misuse of personal information. Strong governance frameworks are therefore necessary to ensure responsible data collection, storage, processing, and sharing practices.
+
+### 3.3 Transparency and Explainability
+
+Many advanced AI models operate as complex systems whose decision-making processes are difficult to understand. This lack of transparency can make it challenging for individuals to determine how decisions were reached. In public systems, transparency is essential because citizens have a right to understand decisions that affect them. Explainable AI helps improve trust, accountability, and informed decision-making by providing clear explanations of AI-generated outcomes.
+
+### 3.4 Accountability
+
+Determining responsibility for AI-generated decisions can be difficult. When an AI system makes an incorrect or harmful decision, questions arise regarding who should be held accountable—the developer, the deploying organization, the data provider, or another stakeholder. Clear accountability mechanisms are necessary to establish responsibility, provide oversight, and ensure appropriate corrective actions when failures occur.
+
+### 3.5 Cybersecurity Risks
+
+AI systems are vulnerable to various cybersecurity threats, including data breaches, adversarial attacks, model manipulation, and unauthorized access. Attackers may exploit vulnerabilities within AI models to generate inaccurate outputs or gain access to sensitive information. As AI becomes increasingly integrated into critical public infrastructure, ensuring the security and resilience of these systems becomes a major governance priority.
 
 ## 4. Existing Governance Approaches
 
