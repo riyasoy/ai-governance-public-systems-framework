@@ -106,7 +106,7 @@ Responsible AI Governance Framework
   <div align="center">
   <h3>Proposed Governance Framework</h3>
   <p>This framework emphasizes Human Oversight, Risk Assessment, Transparency, Data Governance, and Continuous Monitoring.</p>
-  <img src="framework/framework-diagram.png" alt="AI Governance Framework Diagram" width="800"/>
+  <img src="framework/framework-diagram.png" width="800"/>
 </div>
 
 
