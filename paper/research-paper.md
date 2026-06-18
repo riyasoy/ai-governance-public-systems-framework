@@ -100,9 +100,7 @@ To achieve these objectives, Japan promotes the deployment of trustworthy AI acr
 
 ## 5. Proposed Governance Framework
 
-
-Responsible AI Governance Framework
-
+![AI Governance Framework Diagram](framework/framework-diagram.png)
   <div align="center">
   <h3>Proposed Governance Framework</h3>
   <p>This framework emphasizes Human Oversight, Risk Assessment, Transparency, Data Governance, and Continuous Monitoring.</p>
