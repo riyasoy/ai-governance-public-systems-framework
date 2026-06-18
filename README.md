@@ -39,6 +39,22 @@ This research proposes a **comprehensive 5-pillar governance framework** for res
 
 ### 3️⃣ Proposed 5-Pillar Governance Framework
 
+┌─────────────────────────────────────┐
+│  👤 HUMAN OVERSIGHT                 │  ← Prevent/minimize risks to health & rights
+│  First Pillar                        │  ← Human review for high-impact decisions
+├─────────────────────────────────────┤
+│  ⚠️ RISK ASSESSMENT                  │  ← Identify harms before deployment
+│  Second Pillar                       │  ← Evaluate bias, privacy, security
+├─────────────────────────────────────┤
+│  🔍 TRANSPARENCY                     │  ← Explain how decisions generated
+│  Third Pillar                        │  ← Build public trust
+├─────────────────────────────────────┤
+│  💾 DATA GOVERNANCE                  │  ← Foundation: accurate, secure, ethical data
+│  Fourth Pillar (Foundation)          │  ← Quality management, prevent bias
+├─────────────────────────────────────┤
+│  📊 CONTINUOUS MONITORING            │  ← Track model behavior post-deployment
+│  Fifth Pillar                        │  ← Detect data drift, proactive governance
+└─────────────────────────────────────┘
 
 **Framework draws from**: EU AI Act, OECD Principles, NIST AI RMF, ISO/IEC 42001, UNESCO Ethics
 
@@ -104,7 +120,19 @@ The framework integrates common principles from international governance initiat
 
 ## 📁 Repository Structure
 
-
+ai-governance-public-systems-framework/
+├── README.md                    ← Main showcase file
+├── paper/
+│   ├── research-paper.md        ← Full research paper
+│   └── research-paper.pdf       ← PDF version
+├── framework/
+│   ├── framework-diagram.png    ← Visual diagram
+│   └── implementation-checklist.md  ← Risk assessment tool
+├── research-notes/
+│   ├── outline.md               ← Paper structure
+│   └── references.md            ← Complete references
+└── drafts/
+└── draft.md                 ← Working draft
 
 ---
 
