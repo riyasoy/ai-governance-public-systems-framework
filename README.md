@@ -40,18 +40,23 @@ This research proposes a **comprehensive 5-pillar governance framework** for res
 ### 3️⃣ Proposed 5-Pillar Governance Framework
 
 ┌─────────────────────────────────────┐
+
 │  👤 HUMAN OVERSIGHT                 │  ← Prevent/minimize risks to health & rights
 │  First Pillar                        │  ← Human review for high-impact decisions
 ├─────────────────────────────────────┤
+
 │  ⚠️ RISK ASSESSMENT                  │  ← Identify harms before deployment
 │  Second Pillar                       │  ← Evaluate bias, privacy, security
 ├─────────────────────────────────────┤
+
 │  🔍 TRANSPARENCY                     │  ← Explain how decisions generated
 │  Third Pillar                        │  ← Build public trust
 ├─────────────────────────────────────┤
+
 │  💾 DATA GOVERNANCE                  │  ← Foundation: accurate, secure, ethical data
 │  Fourth Pillar (Foundation)          │  ← Quality management, prevent bias
 ├─────────────────────────────────────┤
+
 │  📊 CONTINUOUS MONITORING            │  ← Track model behavior post-deployment
 │  Fifth Pillar                        │  ← Detect data drift, proactive governance
 └─────────────────────────────────────┘
