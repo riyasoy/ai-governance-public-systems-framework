@@ -126,21 +126,16 @@ The framework integrates common principles from international governance initiat
   - Complex accountability among developers, deployers, government agencies, users
 
 ---
-## 📁 Repository Structure
+## Repository Structure
 
-ai-governance-public-systems-framework/
-├── README.md                         (Main showcase file)
-├── paper/
-    ├── research-paper.md             (Full research paper)
-    └── research-paper.pdf            (PDF version)
-├── framework/
-    ├── framework-diagram.png         (Visual diagram)
-    └── implementation-checklist.md   (Risk assessment tool)
-├── research-notes/
-    ├── outline.md                    (Paper structure)
-    └── references.md                 (Complete references)
-└── drafts/
-    └── draft.md                      (Working draft)
+- `README.md` — Main showcase file.
+- `paper/research-paper.md` — Full research paper.
+- `paper/research-paper.pdf` — PDF version.
+- `framework/framework-diagram.png` — Visual diagram.
+- `framework/implementation-checklist.md` — Risk assessment tool.
+- `research-notes/outline.md` — Paper structure.
+- `research-notes/references.md` — Complete references.
+- `drafts/draft.md` — Working draft.
 ---
 
 ## 🔬 Research Methodology
