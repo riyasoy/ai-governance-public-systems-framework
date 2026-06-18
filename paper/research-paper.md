@@ -103,27 +103,12 @@ To achieve these objectives, Japan promotes the deployment of trustworthy AI acr
 ```text
 Responsible AI Governance Framework
 
+  <div align="center">
+  <h3>Proposed Governance Framework</h3>
+  <p>This framework emphasizes Human Oversight, Risk Assessment, Transparency, Data Governance, and Continuous Monitoring.</p>
   <img src="framework/framework-diagram.png" alt="AI Governance Framework Diagram" width="800"/>
+</div>
 
-┌─────────────────────────┐
-│  Human Oversight        │
-└──────────┬──────────────┘
-           │
-┌──────────▼──────────────┐
-│  Risk Assessment        │
-└──────────┬──────────────┘
-           │
-┌──────────▼──────────────┐
-│  Transparency           │
-└──────────┬──────────────┘
-           │
-┌──────────▼──────────────┐
-│  Data Governance        │
-└──────────┬──────────────┘
-           │
-┌──────────▼──────────────┐
-│  Continuous Monitoring  │
-└─────────────────────────┘
 ```
 The proposed governance framework is built upon five interconnected pillars: Human Oversight, Risk Assessment, Transparency Requirements, Data Governance, and Continuous Monitoring. Together, these pillars aim to support the responsible adoption of AI systems in public-sector environments while balancing innovation with accountability, security, and public trust. The framework draws upon common principles identified in international governance initiatives such as the European Union AI Act, OECD AI Principles, NIST AI Risk Management Framework, and other responsible AI guidelines.
 
