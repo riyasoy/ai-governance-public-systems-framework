@@ -268,7 +268,7 @@ The framework integrates common principles from international governance initiat
 
 💼 **LinkedIn**: [Riya Soy](https://www.linkedin.com/in/riya-soy-61ab92179/)  
 🐙 **GitHub**: [riyasoy](https://github.com/riyasoy)  
-📧 **Email**: [riyasoy221@gmail.com / riya.soy.official@gmail.com]
+📧 **Email**: [riyasoy221@gmail.com]
 
 ---
 
