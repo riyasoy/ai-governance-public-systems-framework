@@ -103,6 +103,8 @@ To achieve these objectives, Japan promotes the deployment of trustworthy AI acr
 ```text
 Responsible AI Governance Framework
 
+  <img src="framework/framework-diagram.png" alt="AI Governance Framework Diagram" width="800"/>
+
 ┌─────────────────────────┐
 │  Human Oversight        │
 └──────────┬──────────────┘
