@@ -103,6 +103,8 @@ To achieve these objectives, Japan promotes the deployment of trustworthy AI acr
 <div align="center">
   
   <p>A 5-pillar framework for responsible AI adoption in public systems</p>
+  <p>![AI Governance Framework Diagram](../framework/framework-diagram.png)
+  </p>
 </div>
 
 ![AI Governance Framework Diagram](../framework/framework-diagram.png)
