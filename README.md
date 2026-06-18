@@ -39,30 +39,34 @@ This research proposes a **comprehensive 5-pillar governance framework** for res
 
 ### 3️⃣ Proposed 5-Pillar Governance Framework
 
-┌─────────────────────────────────────┐
+**The framework consists of 5 interconnected pillars (in order):**
 
-│  👤 HUMAN OVERSIGHT                 │  ← Prevent/minimize risks to health & rights
-│  First Pillar                        │  ← Human review for high-impact decisions
-├─────────────────────────────────────┤
+1. **👤 HUMAN OVERSIGHT** (First Pillar)
+   - Prevent/minimize risks to health & rights
+   - Human review for high-impact decisions
+   - Challenge inappropriate outcomes
 
-│  ⚠️ RISK ASSESSMENT                  │  ← Identify harms before deployment
-│  Second Pillar                       │  ← Evaluate bias, privacy, security
-├─────────────────────────────────────┤
+2. **⚠️ RISK ASSESSMENT** (Second Pillar)
+   - Identify harms before deployment
+   - Evaluate bias, privacy, security
+   - NIST AI RMF guidance
 
-│  🔍 TRANSPARENCY                     │  ← Explain how decisions generated
-│  Third Pillar                        │  ← Build public trust
-├─────────────────────────────────────┤
+3. **🔍 TRANSPARENCY** (Third Pillar)
+   - Explain how decisions generated
+   - Clear documentation practices
+   - Build public trust
 
-│  💾 DATA GOVERNANCE                  │  ← Foundation: accurate, secure, ethical data
-│  Fourth Pillar (Foundation)          │  ← Quality management, prevent bias
-├─────────────────────────────────────┤
+4. **💾 DATA GOVERNANCE** (Fourth Pillar - Foundation)
+   - Accurate, secure, ethical data
+   - Quality management standards
+   - Prevent bias & discrimination
 
-│  📊 CONTINUOUS MONITORING            │  ← Track model behavior post-deployment
-│  Fifth Pillar                        │  ← Detect data drift, proactive governance
-└─────────────────────────────────────┘
+5. **📊 CONTINUOUS MONITORING** (Fifth Pillar)
+   - Track model behavior post-deployment
+   - Detect data drift & emerging risks
+   - Proactive governance
 
-**Framework draws from**: EU AI Act, OECD Principles, NIST AI RMF, ISO/IEC 42001, UNESCO Ethics
-
+**Framework draws from**: EU AI Act, OECD Principles, NIST AI RMF, ISO/IEC 42001, UNESCO Ethics  
 **Target outcomes**: Public Trust ✓ | Accountability ✓ | Security ✓ | Balanced Innovation ✓ | Fundamental Rights ✓
 
 ### 4️⃣ Practical Implementation Roadmap
@@ -122,23 +126,21 @@ The framework integrates common principles from international governance initiat
   - Complex accountability among developers, deployers, government agencies, users
 
 ---
-
 ## 📁 Repository Structure
 
 ai-governance-public-systems-framework/
-├── README.md                    ← Main showcase file
+├── README.md                         (Main showcase file)
 ├── paper/
-│   ├── research-paper.md        ← Full research paper
-│   └── research-paper.pdf       ← PDF version
+    ├── research-paper.md             (Full research paper)
+    └── research-paper.pdf            (PDF version)
 ├── framework/
-│   ├── framework-diagram.png    ← Visual diagram
-│   └── implementation-checklist.md  ← Risk assessment tool
+    ├── framework-diagram.png         (Visual diagram)
+    └── implementation-checklist.md   (Risk assessment tool)
 ├── research-notes/
-│   ├── outline.md               ← Paper structure
-│   └── references.md            ← Complete references
+    ├── outline.md                    (Paper structure)
+    └── references.md                 (Complete references)
 └── drafts/
-└── draft.md                 ← Working draft
-
+    └── draft.md                      (Working draft)
 ---
 
 ## 🔬 Research Methodology
