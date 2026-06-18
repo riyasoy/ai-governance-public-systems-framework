@@ -203,7 +203,7 @@ Before deployment, assess:
 - [ ] Historical bias in data identified and corrected
 
 **Privacy Risks**
-- [ ] Data minimization原则 applied (only collect necessary data)
+- [ ] Data minimization applied (only collect necessary data)
 - [ ] Encryption for storage and transmission
 - [ ] Access controls with audit logging
 - [ ] Consent mechanisms for sensitive data
